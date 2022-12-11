@@ -15,7 +15,7 @@
     "ag-grid-enterprise": "^21.0.0",
     "ag-grid-vue": "^21.0.0",
     "bootstrap": "3.4.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "serve-static": "^1.14.1",
     "vue": "2.6.10",
     "vue-property-decorator": "8.1.1",
